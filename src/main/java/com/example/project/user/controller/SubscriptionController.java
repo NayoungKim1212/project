@@ -1,6 +1,6 @@
 package com.example.project.user.controller;
 
-import com.example.project.user.entity.Subscription;
+import com.example.project.user.model.Subscription;
 import com.example.project.user.service.SubscriptionService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

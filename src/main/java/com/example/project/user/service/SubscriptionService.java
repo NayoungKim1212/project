@@ -1,6 +1,6 @@
 package com.example.project.user.service;
 
-import com.example.project.user.entity.Subscription;
+import com.example.project.user.model.Subscription;
 import com.example.project.user.mapper.SubscriptionMapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

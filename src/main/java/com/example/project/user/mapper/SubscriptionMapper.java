@@ -1,6 +1,6 @@
 package com.example.project.user.mapper;
 
-import com.example.project.user.entity.Subscription;
+import com.example.project.user.model.Subscription;
 import org.apache.ibatis.annotations.Mapper;
 
 @Mapper

@@ -1,4 +1,4 @@
-package com.example.project.user.entity;
+package com.example.project.user.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
